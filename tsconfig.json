@@ -28,6 +28,12 @@
       ],
       "moduled": [
         "dist/moduled"
+      ],
+      "test-dynamic-module": [
+        "dist/test-dynamic-module"
+      ],
+      "test-dynamic-module/*": [
+        "dist/test-dynamic-module/*"
       ]
     }
   }
