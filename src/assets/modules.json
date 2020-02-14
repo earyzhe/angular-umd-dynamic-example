@@ -1,7 +1,7 @@
 [
     {
         "path": "moduleA",
-        "location": "http://127.0.0.1:8080/modulea.umd.js",
+        "location": "./modules/modulea.umd.js",
         "moduleName": "ModuleaModule",
         "description": "clarity form",
         "registered": true
